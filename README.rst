@@ -2,8 +2,7 @@
 App Enabler
 ##########################
 
-
-|Gitter| |PyPiVersion| |PyVersion| |GAStatus| |TestCoverage| |CodeClimate| |License|
+|PyPiVersion| |PyVersion| |GAStatus| |TestCoverage| |CodeClimate| |License|
 
 
 ************
@@ -53,22 +52,9 @@ Compatible packages
     :target: https://pypi.python.org/pypi/django-app-enabler
     :alt: Python versions
 
-.. |GAStatus| image:: https://github.com/nephila/django-app-enabler/workflows/Tox%20tests/badge.svg
+.. |GAStatus| image:: https://github.com/Yell0wflash/django-app-enabler/workflows/Tox%20tests/badge.svg
     :target: https://github.com/nephila/django-app-enabler
     :alt: Latest CI build status
-
-.. |TestCoverage| image:: https://img.shields.io/coveralls/nephila/django-app-enabler/master.svg?style=flat-square
-    :target: https://coveralls.io/r/nephila/django-app-enabler?branch=master
-    :alt: Test coverage
-
-.. |License| image:: https://img.shields.io/github/license/nephila/django-app-enabler.svg?style=flat-square
-   :target: https://pypi.python.org/pypi/django-app-enabler/
-    :alt: License
-
-.. |CodeClimate| image:: https://codeclimate.com/github/nephila/django-app-enabler/badges/gpa.svg?style=flat-square
-   :target: https://codeclimate.com/github/nephila/django-app-enabler
-   :alt: Code Climate
-
 
 .. _usage: https://django-app-enabler.readthedocs.io/en/latest/usage.html
 .. _Up-to-date list of compatible packages: https://pypi.org/search/?q="django-app-enabler+addon"
