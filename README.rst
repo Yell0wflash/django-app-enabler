@@ -2,9 +2,6 @@
 App Enabler
 ##########################
 
-|PyPiVersion| |PyVersion| |GAStatus| |TestCoverage| |CodeClimate| |License|
-
-
 ************
 Description
 ************
